@@ -15,7 +15,8 @@ Development of electronic components for various spheres:
  - vending machines;
  - elements of industrial automation;
  - communication with software complexes and systems.
-## Проекты
+
+## Projects
 
 **Here are some projects that make me proud of the work I've done.**
 
