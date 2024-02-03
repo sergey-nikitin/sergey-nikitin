@@ -20,7 +20,8 @@ Development of electronic components for various spheres:
 
 **Here are some projects that make me proud of the work I've done.**
 
- 
+|||.
+|---|---|
 || **Discount kiosks** |
 | [![Discount kiosks](images/200/dterminal.jpg)](images/dterminal.jpg)  | Kiosks that allowed issuing a discount coupon to a customer to one of the stores located in the shopping center.<br>The project also includes a map of navigation through the stores |
 || **Automated paid parking at shopping centers** |
