@@ -24,13 +24,13 @@ Development of electronic components for various spheres:
 ||| 
 |---|---|
 || **Discount kiosks** |
-| [![Discount kiosks](/images/200/dterminal.jpg)](/images/dterminal.jpg)  | Kiosks that allowed issuing a discount coupon to a customer to one of the stores located in the shopping center.<br>The project also includes a map of navigation through the stores |
+| [![Discount kiosks](images/200/dterminal.jpg)](images/dterminal.jpg)  | Kiosks that allowed issuing a discount coupon to a customer to one of the stores located in the shopping center.<br>The project also includes a map of navigation through the stores |
 || **Automated paid parking at shopping centers** |
-| [![Parking](/images/200/parking.jpg)](/images/parking.jpg)  | A solution that allows you to organize a full-fledged automated parking (by checks with barcode) with barriers and payment counter  |
+| [![Parking](images/200/parking.jpg)](images/parking.jpg)  | A solution that allows you to organize a full-fledged automated parking (by checks with barcode) with barriers and payment counter  |
 || **Cigarette vending** |
-| [![Cigarette vending](/images/200/sigaretsvending.jpg)](/images/sigaretsvending.jpg)  | Vending machines and product selection counters that allow to follow Russian legislation as closely as possible when selling tobacco products and at the same time provide a choice to the customer  |
+| [![Cigarette vending](images/200/sigaretsvending.jpg)](images/sigaretsvending.jpg)  | Vending machines and product selection counters that allow to follow Russian legislation as closely as possible when selling tobacco products and at the same time provide a choice to the customer  |
 || **Control of animal weight on livestock farms** |
-| [![Animal weight](/images/200/vsvesh.jpg)](/images/vsvesh.png)  | Equipment that allows weighing the entire livestock every day, and the animals themselves organize this process, due to the clever organization of the complex areas, there is also the possibility of selecting individuals who have reached certain weight indicators |
+| [![Animal weight](images/200/vsvesh.jpg)](images/vsvesh.png)  | Equipment that allows weighing the entire livestock every day, and the animals themselves organize this process, due to the clever organization of the complex areas, there is also the possibility of selecting individuals who have reached certain weight indicators |
 
 
 
